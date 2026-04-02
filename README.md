@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Xshooter26
+# Hi there 👋 I'm Harsh
 
 <!--
 This is a ✨ special ✨ repository because its `README.md` appears on my GitHub profile!
