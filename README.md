@@ -100,9 +100,9 @@ A full-stack e-commerce application built using React, TypeScript, Spring Boot a
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pixxelops&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixxelops&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p>
